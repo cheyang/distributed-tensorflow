@@ -1,6 +1,6 @@
-# Samples of building Distributed TensorFlow Docker image
+# Building Distributed TensorFlow Docker Image
 
-This project contains the docker file to build distributed tensorflow for both CPU and GPU.
+This project contains the Dockerfile to build distributed tensorflow for both CPU and GPU.
 
 ## Distributed TensorFlow
 
